@@ -1,0 +1,45 @@
+body {
+	background-color: #6682cc;
+    width: 99%;
+}
+img{
+    height: 90%;
+    float:left;
+    margin: 10;
+    border-radius: 6px;
+}
+p{
+    d
+    float: right;
+    margin: 10;
+    font-size: 13;
+    font-family: book antiqua;
+    color: #FFFAF0;
+}
+ul{
+    padding: 0 10 0 10;
+    font-size: 13;
+    float: left;
+    color: #f0ffff;
+}
+#entoni img{
+    height: 260px;
+    float: left;
+}
+#entoni p{
+    font-size: 12;
+}
+#loma img{
+    height: 250;
+}
+#furi img{
+    height: 250;
+}
+#furi p, ul{
+    font-size: 12;
+    margin: 3;
+}
+#entoni img{
+    height: 250;
+}
+#555555

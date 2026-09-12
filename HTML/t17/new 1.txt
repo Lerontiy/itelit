@@ -1,0 +1,22 @@
+﻿<html>
+
+<head>
+<link href="menustyle.css" rel="stylesheet">
+</head>
+
+<body>
+	<div id="header">
+		<img src="html/t17/school.jpg">
+		<h1>Математичний<br>ліцей</h1>
+		</div>
+	<div id="menu">
+		<div id="menu1">Головна сторінка</div>
+		<div id="menu1">Учні</div>
+		<div id="menu1">Вчителі</div>
+		<div id="menu1">Діяльність</div>
+		<div id="menu1">Досягнення</div>
+		<div id="menu1">Фотогалерея</div>
+	</div>
+	
+</body>
+</html>

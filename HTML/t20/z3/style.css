@@ -1,0 +1,54 @@
+body {
+	background-color: #dbe0eb;
+}
+#maket {
+	width: 340px;
+	height: auto;
+	margin: 10% auto 0 auto;
+	border-radius: 10px;
+}
+h4 {
+	text-align: center;
+	color: #7f88a0;
+	padding: 15px;
+}
+#pay {
+	background-color: #eceff5;
+	border-radius: 5px;
+}
+#form {
+	background-color: #f3f6fa;
+	padding: 20px;
+	border-radius: 0 0 10px 10px;
+	border-top: 1px solid #d5dae5;
+}
+
+h1 {
+	text-align: center;
+}
+#name {
+	width: 180px;
+	margin: 5px;
+	border-radius: 5px;
+	height: 30px;
+}
+#card {
+	width: 235px;
+	margin: 5px;
+	border-radius: 5px;
+	height: 30px
+}
+#month, #year, #cvc {
+	width: 40px;
+	margin: 5px;
+	border-radius: 5px;
+	height: 30px;
+}
+button {
+	width: 290px;
+	margin: 5px;
+	border-radius: 5px;
+	background-color: #1993fb;
+	padding: 10px;
+	color: white;
+}

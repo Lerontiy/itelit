@@ -1,0 +1,13 @@
+import turtle
+turtle.shape("turtle") 
+turtle.setup(500,500)
+turtle.bgcolor("yellow")
+turtle.title("Графіка в мові Python")
+turtle.setpos(-100,-80)
+turtle.speed(10)
+turtle.clear()
+turtle.color("blue")
+turtle.pensize(5)
+turtle.setpos(0,100)
+turtle.setpos(100,-80)
+turtle.setpos(-100,-80)

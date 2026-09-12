@@ -1,0 +1,84 @@
+﻿<html>
+		<head>
+				<link href="style.css" rel="stylesheet">
+				<title>Підключення інтернету</title>
+		</head>
+		<body>
+				<h3>Анкета на підключення інтернету</h3>
+				<form action="action_page.html">
+						<div>
+								<label for="pip">ПІП</label>
+								<input type="text" placeholder="Призвіще Ім'я По батькові" id="pip">
+						</div>
+						
+						<div>
+								
+								<label for="pass">Пароль</label>
+								<input type="password" placeholder="Придумайте пароль" id="pass">
+						</div>
+						
+						<div>
+								<label for="pass">Провайдер</label>
+								<input type="text" disabled=" disabled" placeholder="Internet">
+						</div>
+
+						<div>
+								<label>Тарифи</label>
+								<select>
+										<option>4 Мбіт/с</option>
+										<option>30 Мбіт/с</option>
+										<option>100 Мбіт/с</option>
+								</select>
+						</div>
+						
+						<div>
+								<label for="">Додаткові послуги</label>
+								<ul>
+										<li>
+												<label><input type="checkbox">Реальний статичний IP</label>
+										</li>
+										<li>
+												<label><input type="checkbox">Відкладений платіж</label>
+										</li>
+										<li>
+												<label><input type="checkbox">Переоформлення договору</label>
+										</li>
+								</ul>
+						</div>
+						
+						<div>
+								<label>Підключення</label>
+								<ul>
+										<li>
+												<label><input type="radio" name="radio1">Кабельнe</label>
+										</li>
+										<li>
+												<label><input type="radio" name="radio1">Оптоволоконне (договірне)</label>
+										</li>
+										<li>
+												<label><input type="radio" name="radio1">Бездротове</label>
+										</li>
+								</ul>
+						</div>
+						
+						<div>
+								<label for="zavanta">Завантажити заяву</label>
+								<input type="file" id="zavanta">
+						</div>
+						
+						<div>
+								<label for="dodat">Додатково</label>
+								<textarea id="dodat"></textarea>
+						</div>
+						
+						<div>
+								<button type="reset">Очистити</button>
+								<button type="submit">Відправити</button>
+						</div>
+						
+						
+						
+						
+				</form>
+		</body>
+</html>

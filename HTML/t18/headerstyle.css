@@ -1,0 +1,17 @@
+﻿body{
+	background-image: url(images/background.png)
+	}
+img{
+	width: 205px;
+	height: 150px;
+	float: right;
+}
+h1{
+	font-size: 93;
+	float: right;
+	color: #eb1010;
+	letter-spacing: 25px;
+}
+h2{
+	color:#eb1010;
+}

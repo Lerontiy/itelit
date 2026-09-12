@@ -1,0 +1,22 @@
+# Системні файли
+.DS_Store
+Thumbs.db
+
+# Node.js (JS проєкти)
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+*idea
+venv/
+
+# PHP
+vendor/
+
+# C++ / Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+*.user

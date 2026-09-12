@@ -1,0 +1,28 @@
+#maket{
+	text-align: center;
+	width: 100%;
+	height: 100%;
+}
+#verh{
+	width: 100%;
+	height: 50%;
+}
+#nyz{
+	width: 100%;
+	height: 50%;
+}
+img{
+	width: 140px;
+	height: 100px;
+	float: left;
+	padding: 2px 2px 0 0;
+}
+#5{
+	margin-left: 100px;
+}
+#film1,#film2,#film3,#film4{
+	width: 708px;
+	height:16px;
+	background-image: url("pup.gif");
+	background-repeat: repeat-x;
+}

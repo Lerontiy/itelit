@@ -1,0 +1,157 @@
+body {
+    font: 0.8125em Helvetica, 'Helvetica Neue', Arial, Verdana, sans-serif;
+    color: #666666;
+    margin: 0 10px;
+}
+body {
+	margin: 0;
+}
+body a {
+    text-decoration: none;
+    color: #464646;
+}
+body a:hover {
+    color: #1876bd;
+}
+body h1 {
+    font-size: 1.3em;
+}
+body h2 {
+    font-size: 1.2em;
+}
+body h3 {
+    font-size: 1.1em;
+}
+ul {
+	list-style-type: none;
+}
+.header-wrap {
+	max-width: 1200px;
+	height: auto;
+	min-height: 156px;
+	margin: 0 auto;
+    position: relative;
+}
+.logo,
+.logoText,
+.mainMenu {
+	width: auto;
+    min-width: 50px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 50px 0 0 0;
+}
+.logo {
+	font-size: 30px;
+	margin: 50px 0 0 10px;
+}
+.logo h1 {
+	margin: 0;
+}
+.logoText {
+    max-width: 180px;   
+    max-height: 2.3em;
+    overflow: hidden;
+	margin: 50px 0 0 80px;
+}
+.mainMenu {
+    margin-left: 100px;
+}
+.mainMenu ul {
+	margin: 0;
+}
+.mainMenu li {
+    display: inline-block;
+	margin: 0 20px 0 0;
+}
+.mainMenu a {
+    color: #464646;
+}
+.mainMenu li.selected a {
+    color: #1876bd;
+}
+.wrapMain {
+    background-color: #eeeff3;
+    min-width: 297px;
+}
+.main {
+    width: 1200px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.nameArticle {
+	text-align: center;
+}
+.postExcerpts {
+    overflow: hidden;
+}
+.postExcerpt {
+    width: 250px;
+    height: auto;
+	min-height: 340px;
+	font-size: .95em;
+	background-color: #fcfcfc;
+	border-radius: 10px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px 13px;
+}
+.postExcerpt>h2 {
+    height: auto;
+    min-height: 120px;
+    margin: 10px;
+}
+.titleCatIMG {
+    display: table;   
+}
+.titleAndCat {
+    border-bottom: 1px solid black;
+}
+.titleAndCat h2 {
+    text-align: center;
+}
+img {
+    max-width: 250px;    
+}
+footer {
+    margin: 0 auto;
+    padding-bottom: 30px;
+}
+.footer-wrap {
+	max-width: 1200px; 
+	height: auto;
+	margin: 0 auto 0 auto;
+}
+.footer-wrap .widget {
+	width: 277px;
+    padding: 10px;
+    display: inline-block;
+    position: relative;
+    margin-bottom: 25px;
+    vertical-align: top;
+}
+.widget h3 {
+    font-size: .95em;
+    text-align: left;
+}
+.widget ul {
+    padding-left: 0;
+}
+.widget li {
+    list-style: none;
+    padding: 0 0 14px;
+}
+.tweet p {
+    margin-bottom: .2em;
+}
+.tweet span {
+    color: #1781c2;
+}
+.footerInner {
+    margin-top: 30px;
+}
+.copy {
+    font-size: .8em;
+    margin-left: 10px;
+	text-align: center;
+}
